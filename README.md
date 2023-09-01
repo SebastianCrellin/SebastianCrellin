@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student at Swansea University in Wales <br>On my final term of studying computer science bsc<br>
+I am graduate from Swansea University in Wales <br>With a first class degree in computer science<br>
 
 
 ## 🌐 Socials:
